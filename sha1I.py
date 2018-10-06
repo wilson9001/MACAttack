@@ -1,4 +1,4 @@
-# Code taken from https://github.com/ajalt/python-sha1. Altered initialization vector and message length arguments, commented out command line functionality.
+# Code taken from https://github.com/ajalt/python-sha1. Altered initialization vector and message length arguments, Commented out command line functionality. Borrowed from heavily in MacAttack.py
 
 from __future__ import print_function
 import struct
